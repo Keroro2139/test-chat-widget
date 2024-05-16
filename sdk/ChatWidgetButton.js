@@ -1,4 +1,4 @@
-import { addClasses } from './DOMHelpers'
+// import { addClasses } from './DOMHelpers'
 
 export const body = document.getElementsByTagName('body')[0]
 
